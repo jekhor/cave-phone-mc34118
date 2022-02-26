@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "snapeda-mic")(type "KiCad")(uri "${KIPRJMOD}/CMA-4544PF-W.pretty")(options "")(descr ""))
+  (lib (name "cui-mic")(type "KiCad")(uri "${KIPRJMOD}/CMEJ-0415-42-P")(options "")(descr ""))
+  (lib (name "cave-phone")(type "KiCad")(uri "${KIPRJMOD}/cave-phone.pretty")(options "")(descr ""))
+)
