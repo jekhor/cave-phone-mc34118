@@ -1,0 +1,101 @@
+M48
+; DRILL file {KiCad 6.0.2+dfsg-1} date Пан 28 лют 2022 00:43:18
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2022-02-28T00:43:18+03:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,6.0.2+dfsg-1
+; #@! TF.FileFunction,MixedPlating,1,2
+FMAT,2
+METRIC
+; #@! TA.AperFunction,Plated,PTH,ViaDrill
+T1C0.700
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T2C0.700
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T3C0.850
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T4C0.870
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T5C0.900
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T6C1.000
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T7C1.200
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T8C1.300
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T9C2.000
+; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
+T10C3.200
+%
+G90
+G05
+T1
+X10.16Y-36.576
+X10.16Y-41.656
+X17.907Y-24.155
+X20.828Y-31.953
+X23.114Y-37.16
+X24.587Y-49.073
+X25.375Y-31.959
+X25.857Y-51.206
+X26.06Y-37.135
+X26.137Y-24.181
+X28.135Y-24.803
+X31.242Y-50.14
+X39.091Y-24.714
+X40.386Y-50.14
+X41.605Y-51.206
+X44.272Y-44.45
+X47.549Y-49.073
+X55.601Y-44.45
+X56.591Y-23.876
+X56.591Y-29.21
+X62.611Y-41.021
+X62.611Y-53.34
+X68.707Y-45.085
+X68.707Y-50.292
+X75.057Y-44.958
+X79.375Y-44.958
+X82.423Y-22.606
+X82.423Y-38.227
+T3
+X77.871Y-48.626
+X80.371Y-48.626
+X93.853Y-27.579
+X93.853Y-30.079
+T4
+X7.842Y-44.958
+X7.842Y-47.498
+T5
+X15.372Y-49.911
+X17.912Y-49.911
+T6
+X87.757Y-2.794
+X90.297Y-2.794
+T7
+X3.632Y-28.14
+X3.632Y-31.14
+X3.632Y-34.14
+T8
+X93.599Y-38.133
+X93.599Y-43.133
+X93.599Y-48.133
+T9
+X5.08Y-11.43
+X77.08Y-11.43
+T10
+X13.725Y-11.43
+X69.335Y-11.43
+T2
+G00X4.382Y-24.79
+M15
+G01X2.882Y-24.79
+M16
+G05
+G00X4.382Y-37.44
+M15
+G01X2.882Y-37.44
+M16
+G05
+T0
+M30
