@@ -381,8 +381,6 @@
         "nets": [
           "GND",
           "Net-(BT1-Pad1)",
-          "Net-(C1-Pad1)",
-          "Net-(D1-Pad2)",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
