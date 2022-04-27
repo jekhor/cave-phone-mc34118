@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -377,10 +377,16 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "Power",
+        "name": "Power & line",
         "nets": [
+          "/LINE_POWER",
           "GND",
           "Net-(BT1-Pad1)",
+          "Net-(C12-Pad1)",
+          "Net-(C12-Pad2)",
+          "Net-(D4-Pad2)",
+          "Net-(SW1-Pad2)",
+          "VB",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
